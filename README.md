@@ -1,8 +1,10 @@
-# OBJ2MC
+<p align="center">
+  <img src=".github/logo.png" alt="OBJ2MC" width="128">
+</p>
 
-Convert 3D models (.obj) to Minecraft Bedrock geometry (.geo.json).
+<h1 align="center">OBJ2MC</h1>
 
-![Screenshot](screenshot.png)
+<p align="center">Convert 3D models (.obj) to Minecraft Bedrock geometry (.geo.json)</p>
 
 ## Features
 
